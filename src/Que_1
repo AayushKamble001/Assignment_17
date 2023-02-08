@@ -1,0 +1,5 @@
+Ans=>
+Once we create a String and on that String if wwe try to perform any operation and if those changes get reflected
+in the same object such String are called Mutable String.
+Ex. ->StringBuffer
+    ->StringBuilder
